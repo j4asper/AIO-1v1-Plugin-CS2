@@ -19,7 +19,7 @@ CS2 Plugin based on [CounterStrikeSharp](https://docs.cssharp.dev/).
 
 - [ ] Lock server during 1v1 match - Maybe let players join as spectators.
 - [ ] !nadecam - Enable nadecam during warmup + Infinite utility?
-- [ ] Frontend website for map voting.
+- [ ] Frontend website for map voting or ingame menu.
 
 ## Installation
 
