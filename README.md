@@ -7,7 +7,8 @@ CS2 Plugin based on [CounterStrikeSharp](https://docs.cssharp.dev/).
 ### Must have
 
 - [ ] !ready command - Both players need to use this command, for the game to start.
-- [ ] !map - Quickly change maps if needed.
+- [x] !map - Quickly change maps if needed.
+- [ ] Add short countdown to map command.
 - [ ] Show commands to players when they join, similar to !help.
 - [ ] !help command.
 - [ ] Ensure infinite warmup when players are connected, and !ready haven't been used by both players.
